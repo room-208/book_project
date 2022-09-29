@@ -31,7 +31,7 @@ SECRET_KEY = os.getenv("SECRET_KEY")
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["https://django-tubotokotsu.herokuapp.com"]
+ALLOWED_HOSTS = ["django-tubotokotsu.herokuapp.com"]
 
 
 # Application definition

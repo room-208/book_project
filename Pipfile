@@ -8,6 +8,7 @@ black = "*"
 django = "==3.2"
 pillow = "*"
 python-dotenv = "*"
+gunicorn = "*"
 
 [dev-packages]
 

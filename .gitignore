@@ -1,0 +1,9 @@
+.env
+
+/media/*
+!bookproject/media/.gitkeep
+
+/static/*
+!static/.gitkeep
+
+db.sqlite3

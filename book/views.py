@@ -1,5 +1,3 @@
-from audioop import avg
-from statistics import mode
 from django.shortcuts import render, redirect
 from django.urls import reverse, reverse_lazy
 from django.views.generic import (
